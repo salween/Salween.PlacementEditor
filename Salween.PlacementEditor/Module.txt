@@ -1,0 +1,10 @@
+﻿Name: Salween.PlacementEditor
+AntiForgery: enabled
+Author: Salween Solutions
+Website: http://salweensolutions.com
+Version: 1.0
+OrchardVersion: 1.0
+Description: Placement Editor for content parts with tabs
+Features:
+    Salween.PlacementEditor:
+        Description: Placement Editor for content parts with tabs.
